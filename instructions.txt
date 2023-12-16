@@ -1,0 +1,30 @@
+Instructions: 
+
+The two sprites are the players. The green fire guy and the pink lava girl. 
+
+There are buttons on the ground which open up doors to jewels. 
+
+They may be touched by either player without consequence but only the player of the correct color touching the button will open the door.
+
+The green ground and pink ground will cause the player of the wrong color to die when stepped on so beware. 
+
+The brown platforms may be traversed without consequence.
+
+The doors at the top of the screen are the key to beating the level. 
+
+Behavior:
+The players should die upon contact with any platform of the wrong color. 
+
+The buttons may be pressed by either player but should only open the door when the right color person touches it.
+
+You can only collect gems of your own color. 
+
+Controls:
+W key should make the green man jump, and A and D should make that player move left and right respectively
+
+Up arrow will make the pink girl jump, and left and right arrow should make the player move left and right respectively
+
+Game Ends:
+You win by both sprites collecting ALL gems of their respective color.
+
+You may lose by making contact with the wrong color platforms. If one player dies, the game will end regardless of if the other player dies.  
